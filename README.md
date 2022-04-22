@@ -1,7 +1,7 @@
 # PhysBonesHelper
  Phys bones Helper
 
-![Phys bones helper](Assets/Screenshot1.png)
+![Phys bones helper](Assets/edit.gif)
 
  Lets you more eazely edit and change bones and contact senders and receivers for VRChat
  
