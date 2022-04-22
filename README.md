@@ -15,7 +15,7 @@
 ### Requirements
 
 - Unity 2019.4.29-31
-- Package versions of [VRChat Base](https://github.com/vrchat/packages/tree/main/packages/com.vrchat.base) and [Avatar](https://github.com/vrchat/packages/tree/main/packages/com.vrchat.avatars) SDKs
+- Package versions of [VRChat Base](https://github.com/vrchat/packages/tree/main/packages/com.vrchat.base) and [Avatar](https://github.com/vrchat/packages/tree/main/packages/com.vrchat.avatars) SDKs or the Avatar sdk via the site
 
 ### Installing
 
