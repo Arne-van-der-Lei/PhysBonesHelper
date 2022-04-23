@@ -19,8 +19,6 @@
 
 ### Installing
 
-> Note: this will be much easier soon with the Open Beta release of the VRChat Creator Companion, Coming Soon™
-
 - install VRChat Avatar sdk by normal means
 - In your project, open the Unity Package Manager, click the + button and choose 'Add package from git URL...'.
   - Press the + button one last time and add this url: `https://github.com/Arne-van-der-Lei/PhysBonesHelper.git`
